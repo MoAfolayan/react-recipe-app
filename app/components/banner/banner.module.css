@@ -1,0 +1,17 @@
+.bannergrid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    grid-auto-rows: minmax(75px, auto);
+}
+
+.title {
+    text-align: left;
+    padding: 7.5%;
+}
+
+.userinfo {
+    text-align: right;
+    padding: 7.5%;
+    grid-column: 4 / 5;
+}

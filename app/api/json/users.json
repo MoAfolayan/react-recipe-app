@@ -1,0 +1,361 @@
+[
+    {
+        "id": 1,
+        "firstName": "Mo",
+        "lastName": "Afolayan",
+        "email": "mo.afolayan@awesome.com",
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Jollof Rice",
+                "description": "Good stuff",
+                "ingredients": [
+                    {
+                        "id": 1,
+                        "name": "Rice",
+                        "quantity": 3,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Tomato",
+                        "quantity": 2,
+                        "unit": "cups"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Onion",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Salt",
+                        "quantity": 1,
+                        "unit": "tablespoon"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Seasoning",
+                        "quantity": 1,
+                        "unit": "tablespoon"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Vegetable Oil",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Water",
+                        "quantity": 2,
+                        "unit": "cups"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Fried Rice",
+                "description": "It's amazing",
+                "ingredients": [
+                    {
+                        "id": 1,
+                        "name": "Rice",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Salt",
+                        "quantity": 1,
+                        "unit": "tablespoon"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Seasoning",
+                        "quantity": 1,
+                        "unit": "tablespoon"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Vegetable Oil",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Water",
+                        "quantity": 2,
+                        "unit": "cups"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Egusi Soup",
+                "description": "African soup",
+                "ingredients": [
+                    {
+                        "id": 1,
+                        "name": "Ground melon seeds",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Tomato",
+                        "quantity": 2,
+                        "unit": "cups"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Meat",
+                        "quantity": 10,
+                        "unit": "pieces"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Pepper",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Onion",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Salt",
+                        "quantity": 1,
+                        "unit": "tablespoon"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Seasoning",
+                        "quantity": 1,
+                        "unit": "tablespoon"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Vegetable Oil",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Water",
+                        "quantity": 2,
+                        "unit": "cups"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Efo Riro",
+                "description": "Yoruba soup",
+                "ingredients": [
+                    {
+                        "id": 1,
+                        "name": "Spinach leaves",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Salt",
+                        "quantity": 1,
+                        "unit": "tablespoon"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Seasoning",
+                        "quantity": 1,
+                        "unit": "tablespoon"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Vegetable Oil",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Water",
+                        "quantity": 2,
+                        "unit": "cups"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "name": "Ewa Agoyin",
+                "description": "Beans",
+                "ingredients": [
+                    {
+                        "id": 1,
+                        "name": "Beans",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Pepper",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Onion",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Salt",
+                        "quantity": 1,
+                        "unit": "tablespoon"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Seasoning",
+                        "quantity": 1,
+                        "unit": "tablespoon"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Palm Oil",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Water",
+                        "quantity": 2,
+                        "unit": "cups"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@awesome.com",
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Casserole",
+                "description": "American",
+                "ingredients": [
+                    {
+                        "id": 1,
+                        "name": "Rice",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Tomato",
+                        "quantity": 2,
+                        "unit": "cups"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Pepper",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Onion",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Salt",
+                        "quantity": 1,
+                        "unit": "tablespoon"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Seasoning",
+                        "quantity": 1,
+                        "unit": "tablespoon"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Vegetable Oil",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Water",
+                        "quantity": 2,
+                        "unit": "cups"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Jollof Rice",
+                "description": "Nigerian",
+                "ingredients": [
+                    {
+                        "id": 1,
+                        "name": "Rice",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Tomato",
+                        "quantity": 2,
+                        "unit": "cups"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Pepper",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Onion",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Salt",
+                        "quantity": 1,
+                        "unit": "tablespoon"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Seasoning",
+                        "quantity": 1,
+                        "unit": "tablespoon"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Vegetable Oil",
+                        "quantity": 1,
+                        "unit": "cup"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Water",
+                        "quantity": 2,
+                        "unit": "cups"
+                    }
+                ]
+            }
+        ]
+    }
+]

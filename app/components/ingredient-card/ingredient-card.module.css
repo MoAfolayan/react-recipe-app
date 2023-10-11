@@ -1,0 +1,15 @@
+.ingredientcardgrid {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 10px;
+    grid-auto-rows: minmax(75px, auto);
+}
+
+.ingredientcarddetails {
+    grid-column: 1 / 8;
+}
+
+.ingredientcardbuttons {
+    grid-column: 8 / 9;
+    padding-top: 25%;
+}

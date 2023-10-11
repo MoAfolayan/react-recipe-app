@@ -1,0 +1,22 @@
+.ingredientgrid {
+    padding-left: 3%;
+    padding-right: 3%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    grid-auto-rows: minmax(75px, auto);
+}
+
+.addNewButton {
+    margin-top: 15%;
+    grid-column: 4 / 5;
+    text-align: right;
+}
+
+.ingredientlist {
+    grid-column: 1 / 5;
+}
+
+.ingredientlistheader {
+    padding-top: 12%;
+}

@@ -29,9 +29,7 @@ const Banner = () => {
                 </Button>
             </div>
             <div className={styles.userinfo}>
-                <Typography variant="h4">MA</Typography>
-                <br />
-                <Typography variant="h6">mafolayan8@r1rcm.com</Typography>
+                <Typography variant="h4">Mo Afolayan</Typography>
             </div>
         </div>
     );
